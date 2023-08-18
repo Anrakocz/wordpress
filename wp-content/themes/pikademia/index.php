@@ -1,3 +1,13 @@
 <?php
+get_header();
 
-echo 'Strona testowa';
+
+
+
+
+
+
+
+get_footer();
+
+
